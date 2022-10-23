@@ -22,3 +22,8 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 rustc hello.rs
 ./hello 
 ```
+
+
+### Cargo Project
+
+cargo-project folder is project created with cargo.
